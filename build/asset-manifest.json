@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/static/js/main.daca31c0.chunk.js",
+    "main.js.map": "/static/js/main.daca31c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.5688c7c4.chunk.js": "/static/js/2.5688c7c4.chunk.js",
+    "static/js/2.5688c7c4.chunk.js.map": "/static/js/2.5688c7c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.5688c7c4.chunk.js.LICENSE.txt": "/static/js/2.5688c7c4.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.96eef6b9.png": "/static/media/about-page-img.96eef6b9.png",
+    "static/media/about-sec-img.bea852d3.png": "/static/media/about-sec-img.bea852d3.png",
+    "static/media/hero.e09fd398.jpg": "/static/media/hero.e09fd398.jpg",
+    "static/media/image1.bed23ce3.PNG": "/static/media/image1.bed23ce3.PNG",
+    "static/media/image2.2c2f73c4.PNG": "/static/media/image2.2c2f73c4.PNG",
+    "static/media/image3.9ef3d2ff.PNG": "/static/media/image3.9ef3d2ff.PNG",
+    "static/media/image4.c8e31722.PNG": "/static/media/image4.c8e31722.PNG",
+    "static/media/image5.fcf43d40.PNG": "/static/media/image5.fcf43d40.PNG",
+    "static/media/image6.a02380d2.PNG": "/static/media/image6.a02380d2.PNG",
+    "static/media/map.7d98ba39.png": "/static/media/map.7d98ba39.png",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.5688c7c4.chunk.js",
+    "static/js/main.daca31c0.chunk.js"
+  ]
+}
